@@ -231,8 +231,8 @@ DATABASE_URL=mysql://user:password@host:port/database
 
 ## 📞 Liên hệ
 
-- **Website**: [TMAi Saigon](https://tmaisaigon.com)
-- **Email**: contact@tmaisaigon.com
+- **Website**: [TMAi Saigon](https://tmaisaigon.vn/)
+- **Email**: contact@tmaisaigon.vn
 - **Địa chỉ**: TP. Hồ Chí Minh, Việt Nam
 
 ## 📄 License
